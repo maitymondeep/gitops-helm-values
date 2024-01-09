@@ -2,7 +2,7 @@ global:
   projectName: ruby
   env: dev
 
-imageTag: 887d715
+imageTag: "887d715"
 
 ## Pod HealthCheck
 readinessProbe:
